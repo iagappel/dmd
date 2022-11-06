@@ -15,4 +15,4 @@ A simple dynamic system such as the simulated 2D velocity field around a circula
 <img src="images/mode_0006.png" alt="drawing" width="600"/>
 
 <img src="images/umagI.png" alt="drawing" width="600"/>
-<img src="images/umagI_reconstructed.png" alt="drawing" width="600"/>
+<img src="images/umagI_reconst.png" alt="drawing" width="600"/>
